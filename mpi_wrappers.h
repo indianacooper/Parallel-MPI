@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <mpi.h>
+#include <time.h>
+#include <unistd.h>
 
 #ifndef MPI_WRAPPERS_H
 #define	MPI_WRAPPERS_H
